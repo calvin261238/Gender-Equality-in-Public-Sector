@@ -7,7 +7,7 @@ This analysis is to examine the result of  Millennium Development Goal 3: Promot
 
 # Analysis Results i found based on country, districts, and income level:
 
-                                                        Countries
+                                                   Countries
 First, i used countries data from 2000~2015 to find top 3 improvement and bottom 3 improvement on gender equality.
   Result: 
   Top 3 improvement
@@ -24,7 +24,7 @@ Second, i used data from 2015~2017 to find top 3 improvement and bottom 3 improv
  Bottom 3 improvement
 Seychelles, Liechtenstein, and Andorra are the three countries improve the worst, with Seychelles experienced the worst decrease of -22.6% of seats held by women in parliaments.
 
-                                                        Districts
+                                                   Districts
 Now, i only examined data grouped by district from 2000~2015 to find top 3 improvement and bottom 3 improvement on gender equality.
   Result: 
   Top 3 improvement
@@ -41,7 +41,7 @@ Europe & Central Asia (excluding high income), Central Europe and the Baltics, a
   Bottom 3 improvement
 Middle East & North Africa (excluding high income), Middle East & North Africa, and Arab World are the three districts improve the worst, with Middle East & North Africa (excluding high income) & Middle East & North Africa both decrease 0.3% and 0.16%, respectively. However, even though Arab World are one of the bottom improvement, it still exhabited 0.04% positive change.
 
-                                                       Income Level
+                                                  Income Level
 Finally, i used data grouped by income level to examine gender equality
 
 Improvement of gender equality from 2000~2015:
